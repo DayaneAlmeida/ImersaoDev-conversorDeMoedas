@@ -2,7 +2,7 @@
 Projeto construído durante a 1º aula da Imersão Dev proporcionado pela Alura. Nessa primeira aula tivemos o primeiro contato com o HTML, CSS e JavaScript, criamos um conversor de moedas, que converte dolar em real! 
 
 
----------->AULA 01 IMERSÃO DEV---------
+---------->AULA 01 IMERSÃO DEV---------(texto da Imersão Dev do Alura)
 CONVERSOR DE MOEDAS E VARIÁVEIS NO JAVASCRIPT
 PARTICIPE E VÁ MAIS FUNDO
 Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que converte dolar em real! O código da aula inicial para você acompanhar está aqui:
